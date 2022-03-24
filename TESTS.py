@@ -2,7 +2,7 @@ import unittest
 
 
 class test_distributions(unittest.TestCase):
-    def test_binominal_distribution(self0):
+    def test_binominal_distribution(self):
         pass
     def test_poisson_distribution(self):
         pass
